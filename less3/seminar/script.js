@@ -34,7 +34,6 @@
 //
 // summ(param1, param2, param3);
 
-
 // Задание 3
 
 // function gol(num) {
@@ -54,9 +53,7 @@
 // min(1, 2);
 // min(2, 1);
 
-
 // Задание 4
-
 
 // function dayWeek(day) {
 //     switch (day) {
@@ -94,7 +91,6 @@
 // console.log(dayWeek(6));
 // console.log(dayWeek(7));
 // console.log(dayWeek(40));
-
 
 // function helloTime(time, name) {
 //     if (time >= 5 && time <= 11) {
